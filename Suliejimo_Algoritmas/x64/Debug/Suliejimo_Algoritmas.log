@@ -1,0 +1,3 @@
+﻿  Suliejimo_algoritmas.cpp
+C:\VIKO_2\Kursinis Darbas Tumasonio\Suliejimo_Algoritmas\Suliejimo_algoritmas.cpp(57,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Suliejimo_Algoritmas.vcxproj -> C:\VIKO_2\Kursinis Darbas Tumasonio\Suliejimo_Algoritmas\x64\Debug\Suliejimo_Algoritmas.exe

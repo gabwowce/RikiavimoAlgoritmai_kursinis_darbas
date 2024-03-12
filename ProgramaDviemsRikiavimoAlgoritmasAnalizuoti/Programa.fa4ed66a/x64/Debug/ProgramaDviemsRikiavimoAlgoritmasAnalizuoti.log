@@ -1,0 +1,4 @@
+﻿  ProgramaAnalizuojantiDuRikiavimoAlgoritmus.cpp
+C:\VIKO_2\Kursinis Darbas Tumasonio\programos tyrimams\ProgramaDviemsRikiavimoAlgoritmasAnalizuoti\ProgramaAnalizuojantiDuRikiavimoAlgoritmus.cpp(74,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\VIKO_2\Kursinis Darbas Tumasonio\programos tyrimams\ProgramaDviemsRikiavimoAlgoritmasAnalizuoti\ProgramaAnalizuojantiDuRikiavimoAlgoritmus.cpp(100,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\VIKO_2\Kursinis Darbas Tumasonio\programos tyrimams\ProgramaDviemsRikiavimoAlgoritmasAnalizuoti\x64\Debug\ProgramaDviemsRikiavimoAlgoritmasAnalizuoti.exe for writing
