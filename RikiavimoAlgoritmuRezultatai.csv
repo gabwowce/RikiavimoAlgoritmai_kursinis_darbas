@@ -1,0 +1,14 @@
+,,,
+Duomenys, Burbulo algoritmo vidutinis greitis (sekundes),Suliejimo algoritmo vidutinis greitis (sekundes),Skirtumas:
+100000 Atvirkðèiai srûðiuoti ,377.745,0.3165,377.4285
+100000 Nesurûðiuoti ,278.191,0.7354,277.4556
+100000 Surûðiuoti ,183.1147,0.2541,182.8606
+50000 Atvirkðèiai srûðiuoti ,73.5791,0.262,73.3171
+50000 Nesurûðiuoti ,72.8452,0.3003,72.5449
+50000 Surûðiuoti ,27.2987,0.1721,27.1266
+10000 Atvirkðèiai srûðiuoti ,5.5438,0.0676,5.4762
+10000 Nesurûðiuoti ,2.4374,0.0476,2.3898
+10000 Surûðiuoti ,0.8385,0.0317,0.8068
+5000 Atvirkðèiai srûðiuoti ,1.1632,0.0327,1.1305
+5000 Nesurûðiuoti ,0.5179,0.0208,0.4971
+5000 Surûðiuoti ,0.2137,0.0149,0.1988
